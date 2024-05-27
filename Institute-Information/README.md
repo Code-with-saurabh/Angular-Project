@@ -3,8 +3,7 @@
 ```markdown
 # Institute Information
 
-Welcome to the Institute Information project! This project aims to provide [briefly describe what your project does or its purpose].
-
+Welcome to the Institute Information project.
 ## Getting Started
 
 To get started with this project, follow these steps:
@@ -13,7 +12,7 @@ To get started with this project, follow these steps:
 
 Make sure you have the following installed on your system:
 
-- PHP (version X.X.X)
+- PHP  
 
 ### Installation
 
@@ -39,7 +38,7 @@ This will start a PHP server locally.
 
 ## Usage
 
-[Provide instructions on how to use your project, including any commands or URLs.]
+[https://github.com/Code-with-saurabh/Angular-Project/]
 
 ## Contributing
 
